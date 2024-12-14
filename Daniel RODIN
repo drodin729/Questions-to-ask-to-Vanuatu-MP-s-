@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questions to Ask New and Old MPs for Their Upcoming Campaign</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #0078D7;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #0056A8;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: disc;         margin-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Questions to Ask New and Old MPs for Their Upcoming Campaign</h1>
+    </header>
+    <main>
+        <section>
+            <h2>General Leadership and Governance</h2>
+            <ul>
+                <li>Many citizens believe corruption is rampant in government institutions. How will you ensure transparency in your administration, and what specific anti-corruption measures will you implement?</li>
+                <li>What is your record on keeping promises from previous campaigns? Can you justify areas where you failed to deliver?</li>
+                <li>Vanuatu has seen frequent political instability due to motions of no confidence. How do you plan to ensure a stable government during your term?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Economic Development</h2>
+            <ul>
+                <li>Air Vanuatu has faced financial mismanagement and operational inefficiencies for years. What immediate steps will you take to address these issues?</li>
+                <li>Youth unemployment remains high. What new industries or opportunities will you create to provide sustainable employment?</li>
+                <li>Many foreign businesses benefit from tax exemptions, while locals face financial challenges. How will you reform the tax system to ensure fairness and increase government revenue?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Infrastructure and Public Services</h2>
+            <ul>
+                <li>The condition of roads, ports, and rural infrastructure is a longstanding issue. How will your government fund and execute infrastructure projects without burdening the nation with unsustainable debt?</li>
+                <li>Many rural areas lack access to quality healthcare and education. What concrete steps will you take to address this disparity?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Customary Land and Resources</h2>
+            <ul>
+                <li>There have been accusations of leaders favoring foreign investors over protecting customary landowners. How will you ensure fair land policies and avoid exploitation?</li>
+                <li>What is your stance on balancing development projects with the protection of natural resources and the environment?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Political Integrity</h2>
+            <ul>
+                <li>Many voters are frustrated by MPs switching parties after elections. Will you commit to remaining loyal to your current party for the full term?</li>
+                <li>The Ombudsman’s office and other watchdog institutions are often underfunded or politically influenced. How will you guarantee their independence and effectiveness?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Social Issues</h2>
+            <ul>
+                <li>Women’s representation in parliament remains almost non-existent. What will you do to ensure gender equality in political and social spheres?</li>
+                <li>How will you involve youth and marginalized communities in decision-making processes?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Foreign Relations and Sovereignty</h2>     <ul>
+                <li>Vanuatu’s growing reliance on foreign loans, particularly from China, has raised concerns. What is your plan to manage these debts without compromising sovereignty?</li>
+                <li>How do you plan to balance relationships with traditional allies like Australia and New Zealand while strengthening ties with new partners?</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Personalized Questions for MPs</h2>
+            <ul>
+                <li>You’ve switched parties multiple times during your political career. How can voters trust your loyalty to their mandate this time?</li>
+                <li>Your frequent party changes have destabilized government coalitions. How do you justify your role in contributing to Vanuatu’s political instability?</li>
+                <li>You were involved in the negotiation of [specific project], which has faced criticism for lack of transparency. How do you respond to these allegations?</li>
+                <li>Your constituency in [region] still faces significant challenges in healthcare and education access. What concrete steps will you take to fulfill your commitments?</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
